@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dev-ed-todo-react/static/css/main.ccc0bc0d.chunk.css",
+    "main.js": "/dev-ed-todo-react/static/js/main.6c9c7685.chunk.js",
+    "main.js.map": "/dev-ed-todo-react/static/js/main.6c9c7685.chunk.js.map",
+    "runtime-main.js": "/dev-ed-todo-react/static/js/runtime-main.19feaee4.js",
+    "runtime-main.js.map": "/dev-ed-todo-react/static/js/runtime-main.19feaee4.js.map",
+    "static/js/2.dad49909.chunk.js": "/dev-ed-todo-react/static/js/2.dad49909.chunk.js",
+    "static/js/2.dad49909.chunk.js.map": "/dev-ed-todo-react/static/js/2.dad49909.chunk.js.map",
+    "static/js/3.c325213b.chunk.js": "/dev-ed-todo-react/static/js/3.c325213b.chunk.js",
+    "static/js/3.c325213b.chunk.js.map": "/dev-ed-todo-react/static/js/3.c325213b.chunk.js.map",
+    "index.html": "/dev-ed-todo-react/index.html",
+    "static/css/main.ccc0bc0d.chunk.css.map": "/dev-ed-todo-react/static/css/main.ccc0bc0d.chunk.css.map",
+    "static/js/2.dad49909.chunk.js.LICENSE.txt": "/dev-ed-todo-react/static/js/2.dad49909.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19feaee4.js",
+    "static/js/2.dad49909.chunk.js",
+    "static/css/main.ccc0bc0d.chunk.css",
+    "static/js/main.6c9c7685.chunk.js"
+  ]
+}
